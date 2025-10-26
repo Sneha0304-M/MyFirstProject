@@ -11,3 +11,5 @@ I'm learning and exploring **AI ML DS Python concepts**.
 - Learning Git and GitHub basics  
 - Uploading and managing projects  
 - Building a strong developer profile
+## Files in this Repository
+- `hello_github.py` → My first Python program uploaded to GitHub 🎉
